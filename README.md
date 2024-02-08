@@ -1,1 +1,0 @@
-# AI-Data-Management-Lab-3
